@@ -1,0 +1,55 @@
+body {
+    background-image: url(http://cdn26.us1.fansshare.com/photo/background/white-background-image-white-1629640641.jpg);
+}
+
+.row .col-md-4 {
+    position: relative;
+    text-align: center;
+    }
+
+.datum {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+    border: 1px solid #dedede;
+    height: 80px;
+    padding-top: 10px;
+    vertical-align: middle;
+    margin-top: 35vh;
+    
+}
+
+.ura {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+    border: 1px solid #dedede;
+    height: 80px;
+    padding-top: 7px;
+    vertical-align: middle;
+    margin-top: 7px;
+}
+
+.row h4 {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: lighter;  
+    color: #959595;
+}
+
+.row p {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;  
+    color: #000000;
+    font-size: 20px;
+    margin-top: -7px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: rgba(255, 255, 255, 0.7);
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #959595;
+    font-size: 12px;
+    text-transform: uppercase;
+}
